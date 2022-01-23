@@ -2,6 +2,7 @@ package edu.kis.vh.nursery;
 
 public class DefaultCountingOutRhymer {
 
+	// TODO: refactor the class to use IntLinkedList instead of an array of ints
 	private int[] numbers = new int[12];
 
 	private int total = -1;
