@@ -9,7 +9,4 @@ na wydziale Elektrotechniki, Elektroniki Informatyki i Automatyki Politechniki �
 
 ## materiały i dodatkowe informacje
 
-
-## ogólne zasady oceny pracy na laboratoriach
-
 - [WIKI projektu z opisem zadań oraz sposobu współpracy studentów w ich realizacji](https://github.com/iis-io-team/pio_git_rhymers/wiki)
